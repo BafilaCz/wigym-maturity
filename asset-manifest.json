@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wigym-maturity/static/css/main.8991a901.css",
+    "main.js": "/wigym-maturity/static/js/main.4f507dd6.js",
+    "index.html": "/wigym-maturity/index.html",
+    "main.8991a901.css.map": "/wigym-maturity/static/css/main.8991a901.css.map",
+    "main.4f507dd6.js.map": "/wigym-maturity/static/js/main.4f507dd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8991a901.css",
+    "static/js/main.4f507dd6.js"
+  ]
+}
