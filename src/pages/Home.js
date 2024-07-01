@@ -17,7 +17,6 @@ const Home = () =>{
 
             <h1>Maturity Wigym</h1>
 
-
             <SubjectLink subject={"ivt"} icon={<FaComputer />}/>
             <SubjectLink subject={"zemepis"} icon={<FaEarthAmericas />}/>
             <SubjectLink subject={"biologie"} icon={<TbFlower />}/>

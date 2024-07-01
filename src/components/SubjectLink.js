@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import "./SubjectLink.css"
 
 const SubjectLink = (props) => {
@@ -8,7 +9,7 @@ const SubjectLink = (props) => {
 
     return(
         
-        <a href={subject} className="subjectLink" id={subject}>{icon} {subjectCapitalized}</a>
+        <Link to={`/${subject}`} className="subjectLink" id={subject}>{icon} {subjectCapitalized}</Link>
     )
 }
 
