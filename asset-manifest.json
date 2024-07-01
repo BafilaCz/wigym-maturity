@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/wigym-maturity/static/css/main.8959920a.css",
+    "main.css": "/wigym-maturity/static/css/main.426b8e69.css",
     "main.js": "/wigym-maturity/static/js/main.3b8728cc.js",
     "index.html": "/wigym-maturity/index.html",
-    "main.8959920a.css.map": "/wigym-maturity/static/css/main.8959920a.css.map",
+    "main.426b8e69.css.map": "/wigym-maturity/static/css/main.426b8e69.css.map",
     "main.3b8728cc.js.map": "/wigym-maturity/static/js/main.3b8728cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.8959920a.css",
+    "static/css/main.426b8e69.css",
     "static/js/main.3b8728cc.js"
   ]
 }
